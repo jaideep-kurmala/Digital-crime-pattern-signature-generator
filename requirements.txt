@@ -1,0 +1,10 @@
+pandas
+numpy
+torch
+transformers
+scikit-learn
+streamlit
+fpdf
+matplotlib
+plotly
+safetensors

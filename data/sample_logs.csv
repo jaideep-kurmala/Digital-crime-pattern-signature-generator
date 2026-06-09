@@ -1,0 +1,7 @@
+User ID,Action,Resource,Timestamp
+"user123","LOGIN","portal.company.com","2023-10-27 09:00:00"
+"user123","ACCESS","/hr/payroll","2023-10-27 09:05:00"
+"user123","DOWNLOAD","salary_data.csv","2023-10-27 09:10:00"
+"user123","LOGIN","portal.company.com","2023-10-27 02:00:00"
+"user123","ACCESS","/admin/settings","2023-10-27 02:05:00"
+"user123","DELETE","audit_logs","2023-10-27 02:10:00"
