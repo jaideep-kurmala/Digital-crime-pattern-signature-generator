@@ -1,1 +1,0 @@
-# Digital-crime-pattern-signature-generator
